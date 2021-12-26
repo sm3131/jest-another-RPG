@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "command line RPG",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sm3131/jest-another-RPG.git"
+  },
+  "author": "Sammi Moore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sm3131/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/sm3131/jest-another-RPG#readme"
+}
